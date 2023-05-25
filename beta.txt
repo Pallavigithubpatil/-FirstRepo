@@ -1,1 +1,2 @@
-aplha gama
+aplha gama 
+this is my frist commit
